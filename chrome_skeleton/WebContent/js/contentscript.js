@@ -1,2 +1,3 @@
-// tutaj nie mozna uzywac chrome.* API !!
-// za wyjatkiem chrome.extension
+//google translate from original polish:
+// You can't use chrome . * APIs here !!
+// Except for chrome.extension
